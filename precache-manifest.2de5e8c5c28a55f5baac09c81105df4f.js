@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/erlang.c8baed56.png"
   },
   {
-    "revision": "89c7966d7459fec3a8de",
+    "revision": "f86f84a96b0010e2c5ae",
     "url": "/static/css/main.57dc468e.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/python.338f19dc.png"
   },
   {
-    "revision": "89c7966d7459fec3a8de",
-    "url": "/static/js/main.89c7966d.chunk.js"
+    "revision": "f86f84a96b0010e2c5ae",
+    "url": "/static/js/main.f86f84a9.chunk.js"
   },
   {
     "revision": "8f42e018a9340b6e4e20161b06525308",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.66eb7191.chunk.css"
   },
   {
-    "revision": "2f785376dadb224978a61ebd1e1d6213",
+    "revision": "a16cbbd0670496a238bbe7f8ce40e5df",
     "url": "/index.html"
   }
 ];
