@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/erlang.c8baed56.png"
   },
   {
-    "revision": "f86f84a96b0010e2c5ae",
+    "revision": "6daa11dec68e801089df",
     "url": "/static/css/main.57dc468e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/media/qgis_layer_slicer.7a82dfdd.gif"
   },
   {
-    "revision": "4fb8f665a7146c1a3032",
-    "url": "/static/js/1.4fb8f665.chunk.js"
+    "revision": "fa90d40ce931927df08f",
+    "url": "/static/js/1.fa90d40c.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/static/media/python.338f19dc.png"
   },
   {
-    "revision": "f86f84a96b0010e2c5ae",
-    "url": "/static/js/main.f86f84a9.chunk.js"
+    "revision": "6daa11dec68e801089df",
+    "url": "/static/js/main.6daa11de.chunk.js"
   },
   {
     "revision": "8f42e018a9340b6e4e20161b06525308",
@@ -100,11 +100,11 @@ self.__precacheManifest = [
     "url": "/static/media/OPA_v1.72eff463.png"
   },
   {
-    "revision": "4fb8f665a7146c1a3032",
+    "revision": "fa90d40ce931927df08f",
     "url": "/static/css/1.66eb7191.chunk.css"
   },
   {
-    "revision": "a16cbbd0670496a238bbe7f8ce40e5df",
+    "revision": "1d9a255fef4fcee85c83bf68f2d5b6cd",
     "url": "/index.html"
   }
 ];
